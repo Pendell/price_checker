@@ -8,5 +8,5 @@ There will be 'Server started on port 8080' or similar if everything started oka
 
 When the server is running, navigate to http://localhost:8080 to enter the stock symbol, and market to search on. The application will scrape google finance's webpages checking for the last known price of the given symbol on the market.
 
-Enjyoy, and thanks for stopping by <3
+Enjyoy, and thanks for stopping by <3  
 Alex P.
